@@ -1303,6 +1303,9 @@ h3 {
 .service-columns article::after {
   content: "";
   position: absolute;
+  inset: auto;
+  top: auto;
+  left: auto;
   right: 18px;
   bottom: 18px;
   width: 42px;
