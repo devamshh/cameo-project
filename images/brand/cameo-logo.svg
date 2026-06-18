@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 110" role="img" aria-labelledby="title desc">
+  <title id="title">Cameo</title>
+  <desc id="desc">Cameo gray and red logo</desc>
+  <rect width="420" height="110" fill="none"/>
+  <g fill="none" stroke="#b51f24" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M56 23c-19 0-34 14-34 32s15 32 34 32"/>
+    <path d="M79 87V24l43 63V24"/>
+    <path d="M151 87V24h47"/>
+    <path d="M151 55h41"/>
+    <path d="M151 87h48"/>
+    <path d="M223 87V24l30 38 30-38v63"/>
+    <path d="M324 24c-19 0-34 14-34 32s15 32 34 32 34-14 34-32-15-32-34-32Z"/>
+  </g>
+  <text x="20" y="103" fill="#6a6a6a" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="7">DESIGN PRODUCTION PROMOTION</text>
+</svg>

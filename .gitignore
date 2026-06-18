@@ -1,0 +1,21 @@
+# Logs and local dev output
+*.log
+node-demo.log
+
+# Local QA screenshots
+*-check.png
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Dependencies (if added later)
+node_modules/
+
+# Local tunnel binary (download separately if needed)
+tools/cloudflared.exe
